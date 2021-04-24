@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-apre-portal-ipn",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarea-Application",
+      "appliesTo": "Application/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarea-aspnet-core-dotnet-core",
+      "appliesTo": "Application/aspnet-core-dotnet-core/",
+      "type": "launch"
+    }
+  ]
+}
