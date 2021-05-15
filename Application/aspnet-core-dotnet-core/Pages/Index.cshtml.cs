@@ -10,7 +10,10 @@ namespace aspnet_core_dotnet_core.Pages
     public class IndexModel : PageModel
     {
         public void OnGet()
+
         {
+            var x =  1;
+            
 
         }
         public string DoTest()
