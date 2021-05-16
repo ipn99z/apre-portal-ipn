@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Application",
-    "\\Application\\aspnet-core-dotnet-core",
-    "\\Application\\aspnet-core-dotnet-core\\Pages"
+    "\\Application\\aspnet-core-dotnet-core"
   ],
-  "SelectedNode": "\\Application\\aspnet-core-dotnet-core\\Program.cs",
+  "SelectedNode": "\\Application\\aspnet-core-dotnet-core\\bundleconfig.json",
   "PreviewInSolutionExplorer": false
 }
