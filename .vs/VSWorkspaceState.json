@@ -8,6 +8,6 @@
     "\\Application\\aspnet-core-dotnet-core\\Pages",
     "\\Application\\aspnet-core-dotnet-core\\Pages\\Shared"
   ],
-  "SelectedNode": "\\Application\\aspnet-core-dotnet-core\\Pages\\Index.cshtml",
+  "SelectedNode": "\\Application\\aspnet-core-dotnet-core\\Pages\\Index.cshtml.cs",
   "PreviewInSolutionExplorer": false
 }
